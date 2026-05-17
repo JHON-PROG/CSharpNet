@@ -1,0 +1,14 @@
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Modelo.deps.json
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Modelo.runtimeconfig.json
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Modelo.dll
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Modelo.pdb
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.csproj.AssemblyReference.cache
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.AssemblyInfoInputs.cache
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.AssemblyInfo.cs
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.dll
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\obj\Debug\net8.0\refint\Ecommerce.Modelo.dll
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.pdb
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Modelo.genruntimeconfig.cache
+C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.Model\obj\Debug\net8.0\ref\Ecommerce.Modelo.dll

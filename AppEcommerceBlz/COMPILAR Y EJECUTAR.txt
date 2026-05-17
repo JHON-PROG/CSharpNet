@@ -1,0 +1,1 @@
+dotnet run --project "C:\Users\jhon.rodriguez\Documents\CODIGO_PROYECTOS\.NET\AppEcommerceBlz\Ecommerce.API\Ecommerce.API.csproj"
