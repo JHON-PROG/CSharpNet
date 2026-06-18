@@ -1,0 +1,102 @@
+# =========================
+# .NET / Visual Studio
+# =========================
+
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Visual Studio cache
+.vs/
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Logs
+*.log
+
+## ASP.NET Core
+wwwroot/lib/
+wwwroot/dist/
+node_modules/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/packages/
+packages/
+
+## Build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.obj
+
+## Debug / Release folders
+Debug/
+Release/
+
+## Test results
+TestResults/
+
+## EF Core
+Migrations/*.Designer.cs
+
+## Blazor specific
+# Si usas WebAssembly:
+wwwroot/_framework/
+wwwroot/_bin/
+
+# Archivos generados
+*.razor.g.cs
+*.g.cs
+
+## OS files
+### Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### macOS
+.DS_Store
+
+## Environment files
+.env
+.env.*
+
+## Secrets
+appsettings.Development.json
+secrets.json
+
+# Publish
+publish/
+*.publishproj
+
+# Docker
+docker-compose.override.yml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Temporary files
+*.tmp
+*.temp
+~$*
